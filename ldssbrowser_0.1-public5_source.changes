@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 21 Aug 2015 14:12:09 -0700
+Source: ldssbrowser
+Binary: ldssbrowser
+Architecture: source
+Version: 0.1-public5
+Distribution: trusty
+Urgency: medium
+Maintainer: Bruce Tarro <bruce.tarro@canonical.com>
+Changed-By: Bruce <bruce.tarro@canonical.com>
+Description: 
+ ldssbrowser - UNKNOWN
+Changes: 
+ ldssbrowser (0.1-public5) trusty; urgency=medium
+ .
+   * Initial release.
+Checksums-Sha1: 
+ b2ad47c8f5dd532adf1dc6a27c88fa750969c78f 1119 ldssbrowser_0.1-public5.dsc
+ ae8390fba5650d83edaf05f3906f357e7e0fe1e3 42192 ldssbrowser_0.1-public5.tar.gz
+Checksums-Sha256: 
+ 9654db1e695f2a2d4ff9c34bcbd8829d5b2d406fb53e39d8ea31b85436a1051c 1119 ldssbrowser_0.1-public5.dsc
+ 656fe29c615af2a184086b5e69e172222b03d7a0a75887299b91330d76720060 42192 ldssbrowser_0.1-public5.tar.gz
+Files: 
+ 7f7790ea761975ec18f3f7cbd4cb6c2a 1119 python extra ldssbrowser_0.1-public5.dsc
+ f677145d1aa74c48780e6a9c18b179d3 42192 python extra ldssbrowser_0.1-public5.tar.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJV15Q+AAoJEDcS7aKe7r8Om3gH/jHgyEHLDzn83VNU/Uh9Ckpi
+fz4peK7d4vd1ZTR6q/6rcaoU9zISDBbKqBaMBrXXR2LDVVMM7SZ8VgZwLNQ9/9XO
+htZpSHDZXN4Zz9Mx0loZ+7QF/kFkRpJTHqiB/xQMyd/q7GukifTQ1FM/jJKI8a4U
+J7SWnr00z8WzTkXCS/YiqsEG6R+8QloF+Ney89ALm2N8381RKa5RRoAMTGZnpLpX
+jZe6gvYEmFtBA9+wGmR/M/kfzQd4SKyOqAlERZdjNwULVXQqgzik7cgjgwahEReX
+aMVP1P1ImwsfKUW7pqG8x64rAdIIDtDxOVcNnj/Rtp8Mb5/tLomc90Cup8cz6ek=
+=njs5
+-----END PGP SIGNATURE-----

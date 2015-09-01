@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-21 13:36-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../data/ui/LdssbrowserWindow.ui.h:1 ../ldssbrowser.desktop.in.h:1
+msgid "Ldssbrowser"
+msgstr ""
+
+#: ../data/ui/LdssbrowserWindow.ui.h:2
+msgid "_File"
+msgstr ""
+
+#: ../data/ui/LdssbrowserWindow.ui.h:3
+msgid "_Edit"
+msgstr ""
+
+#: ../data/ui/LdssbrowserWindow.ui.h:4
+msgid "_View"
+msgstr ""
+
+#: ../data/ui/LdssbrowserWindow.ui.h:5
+msgid "_Help"
+msgstr ""
+
+#: ../data/ui/LdssbrowserWindow.ui.h:6
+msgid "Contents"
+msgstr ""
+
+#: ../data/ui/LdssbrowserWindow.ui.h:7
+msgid "Refresh"
+msgstr ""
+
+#: ../data/ui/LdssbrowserWindow.ui.h:8
+msgid "Status Area"
+msgstr ""
+
+#. Code for other initialization actions should be added here.
+#: ../data/ui/PreferencesLdssbrowserDialog.ui.h:1
+msgid "Ldssbrowser Preferences"
+msgstr ""
+
+#: ../data/ui/PreferencesLdssbrowserDialog.ui.h:2
+msgid "_Example entry:"
+msgstr ""
+
+#: ../ldssbrowser.desktop.in.h:2
+msgid "Ldssbrowser application"
+msgstr ""
+
+#: ../data/ui/AboutLdssbrowserDialog.ui.h:1
+msgid "2015, Bruce Tarro"
+msgstr ""
+
+#: ../data/ui/AboutLdssbrowserDialog.ui.h:2
+msgid "Visit our github"
+msgstr ""
+
+#: ../ldssbrowser/__init__.py:21
+msgid "Show debug messages (-vv debugs ldssbrowser_lib also)"
+msgstr ""

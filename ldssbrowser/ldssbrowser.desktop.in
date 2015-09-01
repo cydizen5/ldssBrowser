@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Ldssbrowser
+_Comment=Ldssbrowser application
+Categories=GNOME;Utility;
+Exec=ldssbrowser
+Icon=ldssbrowser
+Terminal=false
+Type=Application
